@@ -1,5 +1,5 @@
 {
-  "name": "headzoo/polymer-bundle",
+  "name": "Privax/polymer-bundle",
   "description": "Symfony bundle and Twig extension for developing and deploying Polymer web components.",
   "keywords": [
     "symfony",
